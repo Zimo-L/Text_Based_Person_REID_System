@@ -1,0 +1,2 @@
+# Text_Based_Person_REID_System
+本仓库展示了一个基于文本的行人REID系统.
