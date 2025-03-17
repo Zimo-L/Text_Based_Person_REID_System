@@ -20,5 +20,5 @@
 
 - RAG：LangChain/LlamaIndex
 
-- MLLM：DeepSeek-VL/Qwen-VL
+- MLLM：MiniCPM-V-2.6
 
