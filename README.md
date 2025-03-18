@@ -18,7 +18,7 @@
 
 ## 演示
 
-点击[这里DeltaAI](http://deltaai.top/)进行观看. 我们由衷的感谢DeltaAI对我们本项目的大力支持.
+
 
 ## 技术栈
 - REID模型
