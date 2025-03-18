@@ -9,7 +9,7 @@
 - REID模型跨域能力低下
 - 原生态的MLLM模型本身不具有评分能力
 
-  ## 我们解决了什么
+## 我们解决了什么
 - 利用REID模型的检索分数作为label 对MLLM底座模型训练一个Reword模型 以改善REID模型跨域检索的能力和MLLM的真实评分能力
 - 基于REID模型作为Embedding 采用LlamaIndex和LangChain对数据进行存储 以改进检索和追踪的时效性
 
@@ -22,13 +22,15 @@
 
 ## 技术栈
 - REID模型
-  - 啊
+  - 基于文本的REID：IRRA、CADA、RASA
+  - 基于图像的REID：st-ReID、SSKD、DenseIL
+  - 基于视频的REID：PSTA、AuxUSLReID
 
-- 前端：html/css/javascript
+- 前端：html/css/vue
 
 - 后端：java
 
 - RAG：LangChain/LlamaIndex
 
-- MLLM：MiniCPM-V-2.6
+- MLLM：MiniCPM-V-2.6、Qwen-VL、ChatGPT-3.5-Turbo
 
