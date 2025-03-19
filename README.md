@@ -18,7 +18,7 @@
 
 ## 演示
 
-您可以[点击此处：智能安防天眼系统](http://deltaai.top)进行视频观看。
+您可以[点击此处：智能安防天眼系统](http://deltaai.top/project/product2.html)进行视频观看。
 
 ## 技术栈
 - REID模型
